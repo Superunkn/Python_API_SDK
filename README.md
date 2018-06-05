@@ -45,7 +45,7 @@ apiSecret - dome9 secret
 
 # Instance Sample
 
-To create instanse just provide the requested params use the instance var to expose all the api methods 
+To create instance simply provide the requested params use the instance var to expose all the api methods 
 
 In the following example we are setting sa_east_1 to ReadOnly protection mode , to see more options check the methods signatures  
 
